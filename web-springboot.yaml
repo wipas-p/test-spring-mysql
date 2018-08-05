@@ -14,4 +14,3 @@ spec:
         image: wipasp/springboot02
         ports:
         - containerPort: 8090
-        - containerPort: 8091
